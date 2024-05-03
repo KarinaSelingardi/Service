@@ -1,6 +1,6 @@
-<mxfile modified="2024-05-03T17:32:42.648Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="SuxUd0lLqI9z2hE4BZPi" version="24.3.1" type="github">
+<mxfile modified="2024-05-03T17:56:46.378Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="SF_6K2wGcwTLe3ZDboRf" version="24.3.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="695" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="260" y="49" width="1040" height="951" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-107" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;dashed=1;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="UEzPUAAOIrF-is8g5C7q-74" vertex="1">
-          <mxGeometry width="1040" height="950" as="geometry" />
+          <mxGeometry y="101" width="1040" height="950" as="geometry" />
         </mxCell>
         <mxCell id="iKtmLbI8oogFUREb0o28-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="UEzPUAAOIrF-is8g5C7q-107" source="6AM9g3hBtSL9kb6GKqHw-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -105,7 +105,7 @@
           <mxGeometry x="704.5" y="482" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="z5y8-9YaG5-ok4Z5Z4ti-28" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="1">
-          <mxGeometry x="80" y="375" width="78" height="78" as="geometry" />
+          <mxGeometry x="90" y="480" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="z5y8-9YaG5-ok4Z5Z4ti-29" value="&lt;span id=&quot;docs-internal-guid-5bb79deb-7fff-4cec-65a3-bc8217654365&quot;&gt;&lt;p style=&quot;line-height:1.295;text-align: justify;margin-top:0pt;margin-bottom:8pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Amazon Route 53: O Amazon Route 53 é usado para resolver nomes de domínio (DNS), portanto, é a primeira camada na qual o usuário interage para acessar sua aplicação. Ele direciona o tráfego para o Amazon CloudFront.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1400" y="60" width="449" height="70" as="geometry" />
