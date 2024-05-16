@@ -1,4 +1,4 @@
-<mxfile modified="2024-05-16T21:08:56.741Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="7s27-YXIi9KcBT-HGRoJ" version="24.3.1" type="github">
+<mxfile modified="2024-05-16T21:10:35.943Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="4cx3qsp54LUz8Gt6BSVT" version="24.3.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1997" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry x="1386.5" y="320" width="449" height="118" as="geometry" />
         </mxCell>
         <mxCell id="z5y8-9YaG5-ok4Z5Z4ti-63" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1395.5" y="800" width="440" height="122" as="geometry" />
+          <mxGeometry x="1394.5" y="790" width="440" height="122" as="geometry" />
         </mxCell>
         <mxCell id="z5y8-9YaG5-ok4Z5Z4ti-64" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-eefeae2b-7fff-3fa4-95c0-7c2dbae66c78&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.295;text-align: justify;margin-top:0pt;margin-bottom:8pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;AWS Certificate Manager (ACM): O AWS Certificate Manager é utilizado para provisionar e gerenciar certificados SSL/TLS para os domínios da aplicação. Ele oferece a capacidade de obter e renovar automaticamente certificados SSL/TLS gratuitos, garantindo comunicações seguras entre os usuários e a aplicação. O ACM pode ser integrado com o Amazon CloudFront para fornecer comunicações seguras através da CDN, garantindo a autenticidade e a integridade dos dados transmitidos entre o usuário e a aplicação.&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1395" y="1030" width="450" height="180" as="geometry" />
